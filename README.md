@@ -39,7 +39,7 @@ npm run preview
 
 ### Features
 - Prompt input with Enter to send and Shift+Enter for newline
-- Gemini 1.5 Flash responses
+- Gemini 2.0 Flash responses
 - Chat history persisted in localStorage
 - Clear conversation button
 - Elegant dark UI, glass/gradient accents, icons
