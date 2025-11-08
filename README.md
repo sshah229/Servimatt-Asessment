@@ -1,4 +1,4 @@
-## Gemini Playground (React + Vite + Tailwind)
+## AI Chatbot (React + Vite + Tailwind)
 
 Beautiful, fast, and simple AI prompt app built with React + TypeScript, Vite, TailwindCSS, and Google Gemini. Includes chat history, clear conversation, loading/error states, Markdown rendering, and code highlighting.
 
